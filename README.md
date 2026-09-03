@@ -15,7 +15,6 @@
 <p align="center">
   <a href="#live-demo">🚀 Live Demo</a> •
   <a href="#features">✨ Features</a> •
-  <a href="#screenshots">📸 Screenshots</a> •
   <a href="#customization">🎨 Customize</a> •
   <a href="#deployment">🚀 Deploy</a>
 </p>
