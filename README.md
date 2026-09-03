@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="#https://the-royal-spice.netlify.app/">🚀 Live Demo</a> •
+  <a href="#Live Demo">🚀 Live Demo</a> •
   <a href="#features">✨ Features</a> •
   <a href="#customization">🎨 Customize</a> •
   <a href="#deployment">🚀 Deploy</a>
