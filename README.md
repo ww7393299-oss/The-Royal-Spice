@@ -89,11 +89,7 @@ You only need a modern web browser. No build tools, no npm, no bundler required!
 
    # Or serve locally (optional)
    npx serve .
-   ```
 
-> 💡 **Tip:** For the best development experience, use [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension in VS Code.
-
----
 
 ## 🎨 Customization Guide
 
@@ -164,12 +160,7 @@ Update the social media links in the footer:
 ```
 the-royal-spice/
 ├── index.html          # Main HTML file (single page)
-├── README.md           # This file
-├── LICENSE             # MIT License
-└── screenshots/        # Add your screenshots here
-    ├── hero.png
-    ├── menu.png
-    └── reservation.png
+├── README.md           # This file            
 ```
 
 > **Note:** This is a single-file website. All HTML, CSS, and JavaScript are contained in `index.html` for simplicity. You can split them into separate files if you prefer.
@@ -186,29 +177,6 @@ Contributions are welcome! If you have suggestions for improvements or find a bu
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — feel free to use it for personal or commercial projects.
-
-```
-MIT License
-
-Copyright (c) 2024 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
-
----
 
 ## 📞 Contact
 
