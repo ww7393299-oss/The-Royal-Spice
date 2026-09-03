@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Responsive-Yes-brightgreen?style=for-the-badge" alt="Responsive">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License">
 </p>
 
 <p align="center">
@@ -13,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="#live-demo">🚀 Live Demo</a> •
+  <a href="#https://the-royal-spice.netlify.app/">🚀 Live Demo</a> •
   <a href="#features">✨ Features</a> •
   <a href="#customization">🎨 Customize</a> •
   <a href="#deployment">🚀 Deploy</a>
