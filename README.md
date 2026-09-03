@@ -57,19 +57,6 @@ Whether you run an Indian restaurant, a continental bistro, or a multi-cuisine f
 
 ---
 
-## 📸 Screenshots
-
-> *Add your own screenshots here by replacing the links below*
-
-<p align="center">
-  <img src="screenshots/hero.png" width="80%" alt="Hero Section">
-  <br><br>
-  <img src="screenshots/menu.png" width="80%" alt="Menu Section">
-  <br><br>
-  <img src="screenshots/reservation.png" width="80%" alt="Reservation Form">
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
